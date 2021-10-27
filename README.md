@@ -1,5 +1,5 @@
 
-👦: **Olá Eu sou Ryan Marinho**
+👦 **Olá Eu sou Ryan Marinho**
 
 
 ## 📌Técnico em Desenvolvimento de Sistemas : 
