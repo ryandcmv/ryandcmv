@@ -2,8 +2,9 @@
 👦 **Olá Eu sou Ryan Marinho**
 <img src="https://img.icons8.com/color/48/000000/black-hole.png"/>
 
+“ A arte desafia a tecnologia, e a tecnologia inspira a arte ”.
 
-## 📌Técnico em Desenvolvimento de Sistemas : 
+## 📌Técnico em Desenvolvimento de Sistemas e Ilustrador : 
 
 ### Bem Vindo ao meu Perfil 
 
