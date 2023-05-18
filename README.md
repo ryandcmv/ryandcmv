@@ -4,7 +4,7 @@
 
 “ A arte desafia a tecnologia, e a tecnologia inspira a arte ”.
 
-## 📌Técnico em Desenvolvimento de Sistemas e Ilustrador : 
+## 📌Desenvolvedor Front-end : 
 
 ### Bem Vindo ao meu Perfil 
 
